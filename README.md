@@ -14,7 +14,7 @@ Provides a real-time overview of total revenue, orders, client stats, and intera
 
 ### 🛍️ Public E-Commerce Storefront
 A clean, responsive catalog where customers can view products and place direct orders.
-![Public Store](Screenshot%202026-09-07%20023001.jpg)
+![Public Store](Screenshot%202026-09-07%20023001.png)
 
 ---
 
